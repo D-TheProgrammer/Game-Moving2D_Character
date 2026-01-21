@@ -3,6 +3,11 @@
 
 [English] Character moving in a 2D environment using inputs
 
+![Godot](https://img.shields.io/badge/Godot-478CBF?style=flat&logo=godot-engine&logoColor=white)
+![GDScript](https://img.shields.io/badge/GDScript-Game_Logic-blue)
+![2D Game](https://img.shields.io/badge/Game-2D_Platformer-orange)
+![Status](https://img.shields.io/badge/Status-Playable-success)
+
 #### SOMMAIRE / SUMMARY
 - [Présentation en francais / Presentation in French](#francais)
 - [Présentation en anglais / Presentation in English](#english)
