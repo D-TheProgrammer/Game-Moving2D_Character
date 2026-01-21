@@ -3,9 +3,10 @@
 
 [English] Character moving in a 2D environment using inputs
 
-![Godot](https://img.shields.io/badge/Godot-478CBF?style=flat&logo=godot-engine&logoColor=white)
-![GDScript](https://img.shields.io/badge/GDScript-Game_Logic-blue)
-![2D Game](https://img.shields.io/badge/Game-2D_Platformer-orange)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![Canvas](https://img.shields.io/badge/Canvas-2D-green)
+![Animation](https://img.shields.io/badge/Animation-Sprite-blue)
 ![Status](https://img.shields.io/badge/Status-Playable-success)
 
 #### SOMMAIRE / SUMMARY
